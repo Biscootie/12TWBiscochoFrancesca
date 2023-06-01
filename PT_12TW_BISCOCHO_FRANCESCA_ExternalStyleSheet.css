@@ -1,0 +1,77 @@
+/*EXTERNAL SHEETS OF PT*/
+
+	body
+	{
+		
+	}
+
+
+	h1
+	{ color:#17041f;
+	letter-spacing:0.5px;
+	text-align:center;
+	font-family:Cambria;
+	font-size:40pt;
+	font-weight:stronger;
+	}
+
+
+	h2
+	{color:#350E30;
+	letter-spacing:0.5px;
+	text-align:left;
+	font-family:Cambria;
+	font-size:30pt;
+	font-weight:strong;	
+	}
+
+
+	h3
+	{color:#6E0733;
+	letter-spacing:0.5px;
+	text-align:left;
+	font-family:Garamond;
+	font-size:20pt;
+	font-weight:normal;	
+	}
+
+
+	a
+	{text-decoration:none;
+		color:#57185e;
+		font-weight:stronger;
+		text-align:center;
+		font-family:Verdana;
+	`	font-size:15pt;
+	
+		
+	}
+	
+	table
+	{border-width :3pt;
+	border-color :#09471c;
+	border-style :dotted;
+	background-color :#2b994c;
+	padding-top:10;
+	padding-bottom:10;
+	padding-left:20;
+	padding-right:20;
+	}
+
+
+	td,th
+	{background-color :#2b994c;
+	border-width :2px;
+	border-color :#550D4C;
+	border-style :groove;
+		font-weight:stronger;
+		text-align:center;
+		font-family:Verdana;
+		font-size:15pt;
+			padding-top:5px;
+			padding-bottom:5px;
+			padding-left:10px;
+			padding-right:10px;
+	}
+
+	
